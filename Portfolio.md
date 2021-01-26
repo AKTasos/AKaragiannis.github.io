@@ -2,8 +2,9 @@
 Anastassios Karagiannis
 ## H2
 Neuroscientifique / Datascientist
+___
 ### H3
-![Image]()
+![Image](https://aktasos.github.io/AKaragiannis.github.io/brain.png)
 #### H4
 
 
