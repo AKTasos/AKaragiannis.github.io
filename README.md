@@ -1,5 +1,5 @@
 
-![Image](https://aktasos.github.io/AKaragiannis.github.io/ban_neurone_linkedin)
+![Image](https://aktasos.github.io/AKaragiannis.github.io/ban_neurone_linkedin.png)
 ---
 # Anastassios Karagiannis
 
