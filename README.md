@@ -1,8 +1,10 @@
 
-# H1
-Anastassios Karagiannis
-## H2
-Neuroscientifique / Datascientist
+![Image](https://aktasos.github.io/AKaragiannis.github.io/ban_neurone_linkedin)
+---
+# Anastassios Karagiannis
+
+## Neuroscientifique / Datascientist
+
 ___
 ### H3
 ![Image](https://aktasos.github.io/AKaragiannis.github.io/brain.png)
